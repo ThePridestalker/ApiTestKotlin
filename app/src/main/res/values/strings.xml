@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ApiTestKotlin</string>
+    <string name="texto_boton">GET</string>
+</resources>
